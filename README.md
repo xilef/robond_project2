@@ -12,7 +12,7 @@ Make sure you have gazebo and rviz installed and you have setup a catkin workspa
 Clone the repo to your catkin workspace's src folder
 
 eg:
-`git clone https://github.com/xilef/robond_project1 /home/robond/workspace/catkin_ws/src
+`git clone https://github.com/xilef/robond_project2 /home/robond/workspace/catkin_ws/src
 `
 
 Go to the root of your catkin workspace and run `catkin_make` to build the whole repo
